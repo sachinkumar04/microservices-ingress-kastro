@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: techsolutions
-        image: sachinkumar04/microservice:latest
+        image: sachinkumar04/microservice:V2
         ports:
         - containerPort: 80
         resources:
